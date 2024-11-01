@@ -1,4 +1,4 @@
-# Resturate Page
+# Resturant Page
 
 This repository contains the **Resturate Page** project developed as part of the JavaScript section of the Full Stack Course from The Odin Project. This project focuses on creating a responsive restaurant website and serves as an introduction to using Webpack for module bundling and asset management.
 
